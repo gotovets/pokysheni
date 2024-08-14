@@ -7,7 +7,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
-          <code className={styles.code}>app/page.js - OK 5!</code>
+          <code className={styles.code}>app/page.js - OK 6!</code>
         </p>
         <div>
           <a
