@@ -4,6 +4,9 @@ export default function About() {
     return (
         <ul>
           <li>
+            <Link href="/sp/111111122222">sp</Link>
+          </li>          
+          <li>
             <Link href="/page-1">page-1</Link>
           </li>
           <li>
